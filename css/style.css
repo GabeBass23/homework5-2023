@@ -116,7 +116,7 @@ header{
     }
 }
 
-@media print and (orientation: portrait){
+@media print{
     body{
         font-family: Arial, Helvetica;
         background-image: none;
